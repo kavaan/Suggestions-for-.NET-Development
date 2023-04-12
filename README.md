@@ -2,6 +2,7 @@
 The following list recommends widely used tools and libraries for software development in .NET. If you have any suggestions, feel free to share them with others.
 
 <img src="https://raw.githubusercontent.com/kavaan/Suggestions-for-.NET-Development/main/dotnet_suggestions.png"/>
+<center>The green dot indicates that it is widely used or recommended for use.</center>
 
 <h2>Managing Microservices</h2>
 
