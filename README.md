@@ -1,4 +1,4 @@
-# Suggestions-for-.NET-Development
+# Suggestions for .NET Development
 The following list recommends widely used tools and libraries for software development in .NET. If you have any suggestions, feel free to share them with others.
 
 <img src="https://raw.githubusercontent.com/kavaan/Suggestions-for-.NET-Development/main/dotnet_suggestions.png"/>
@@ -82,6 +82,7 @@ A behavioral design pattern that provides a way to decouple components of a syst
 <h4><a href="https://www.geeksforgeeks.org/builder-design-pattern">Builder</a></h4>
 A creational design pattern that provides a way to create complex objects by breaking them down into smaller, simpler objects and then combining them together.
 
+<hr/>
 <b><a href="https://www.linkedin.com/in/kavaan-damirchi/">Linkedin</a></b>
 
 <b><a href="https://medium.com/@KeivanDamirchi/suggestions-for-net-development-67e53ac646dc">Medium</a></b>
