@@ -5,7 +5,10 @@ The following list recommends widely used tools and libraries for software devel
 
 Managing Microservices
 Dapr: portable, event-driven runtime that simplifies building microservices.
+<a href="https://github.com/dapr/dotnet-sdk">Read More</a>
+
 Tye: tool that simplifies microservices development by enabling developers to run and debug services locally.
+<a href="https://github.com/dapr/dotnet-sdk">Read More</a>
 
 Api Gateway
 Ocelot: lightweight API gateway that helps to build scalable and secure microservices architecture.
