@@ -51,7 +51,7 @@ Powerful image manipulation library that supports over 100 major file formats.
 cross-platform image processing library for .NET that enables developers to manipulate and transform images.
 
 <h2>VS Code Extensions</h2></a></h4>
-<h4><a href="https://marketplace.visualstudio.com/items?itemName=josefpihrt-vscode.roslynator">Roslynator
+<h4><a href="https://marketplace.visualstudio.com/items?itemName=josefpihrt-vscode.roslynator">Roslynator</a></h4>
 collection of analyzers, refactorings, and code fixes for C# that help to improve the quality and maintainability of code.
 <h4><a href="https://marketplace.visualstudio.com/items?itemName=GitHub.copilot">GitHub Copilot</a></h4>
 AI-powered code assistant that provides suggestions for completing code based on natural language inputs.
@@ -82,5 +82,7 @@ A behavioral design pattern that provides a way to decouple components of a syst
 <h4><a href="https://www.geeksforgeeks.org/builder-design-pattern">Builder</a></h4>
 A creational design pattern that provides a way to create complex objects by breaking them down into smaller, simpler objects and then combining them together.
 
-I hope that these tools and the mentioned items will help developers in designing a better software.
+<b><a href="https://www.linkedin.com/in/kavaan-damirchi/">Linkedin</a></b>
+
+<b><a href="https://medium.com/@KeivanDamirchi/suggestions-for-net-development-67e53ac646dc">Medium</a></b>
 
