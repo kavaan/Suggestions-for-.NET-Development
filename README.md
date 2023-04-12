@@ -3,9 +3,9 @@ The following list recommends widely used tools and libraries for software devel
 
 <img src="https://raw.githubusercontent.com/kavaan/Suggestions-for-.NET-Development/main/dotnet_suggestions.png"/>
 
-Managing Microservices
-Dapr: portable, event-driven runtime that simplifies building microservices.
-<a href="https://github.com/dapr/dotnet-sdk">Read More</a>
+<h2>Managing Microservices</h2>
+
+<h4><a href="https://github.com/dapr/dotnet-sdk">Dapr</a></h4>: portable, event-driven runtime that simplifies building microservices.
 
 Tye: tool that simplifies microservices development by enabling developers to run and debug services locally.
 <a href="https://github.com/dapr/dotnet-sdk">Read More</a>
